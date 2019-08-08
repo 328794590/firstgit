@@ -5,4 +5,6 @@ class Kotlin{
 	String str = "hello";
 	//第五次修改
 	char a = "a";
+	//zhangsan branch commit
+	String str1 = "zhangsan";
 }
